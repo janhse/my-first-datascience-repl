@@ -25,7 +25,3 @@ language = "python3"
 # for Python repos imported from GitHub
 [gitHubImport]
 requiredFiles = [".replit", "replit.nix", ".config", "venv"]
-
-[[ports]]
-localPort = 5900
-externalPort = 80
